@@ -5,10 +5,10 @@ Input b
 Input c
 > +++
 
-Input n; n = n plus 1
-> ++
-Input m ; m = m plus 1
-> ++
+Input n
+> +++
+Input m
+> +++
 
 Declare Global X
 > 
