@@ -10,7 +10,8 @@ int main() {
         y = a + c;
         z = (a + x) * (y - 8);
         for (int j = 0; j < m; j++) {
-            int x = (z + b) * (x + c);
+            int t1 = x + c;
+            int x = (z + b) * t1;
             s = s + b + c - x;
         }
     }
